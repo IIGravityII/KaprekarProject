@@ -5,7 +5,7 @@
 #include<setjmp.h>
 #include<cmocka.h>
 
-#include "kaprekarUtils.h"
+#include <kaprekarUtils.h>
 
 /**
  * A convenience function to print test values in a
